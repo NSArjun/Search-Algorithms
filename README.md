@@ -94,7 +94,8 @@ else:
 ```
 ## Output:
 i)	#Use a linear search method to match the item in a list.
-![image](https://github.com/NSArjun/Search-Algorithms/assets/148233801/6e0905b7-4129-4a13-87f9-e23cd41930d1)
+![Uploading image.png…]()
+
 
 
 
