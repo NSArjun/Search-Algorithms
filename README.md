@@ -94,18 +94,20 @@ else:
 ```
 ## Output:
 i)	#Use a linear search method to match the item in a list.
-![Uploading image.png…]()
+![image](https://github.com/NSArjun/Search-Algorithms/assets/148233801/294f5a54-e8b5-43b5-840f-17e6ae8b6eb5)
+
 
 
 
 
 ii)	# Find the element in a list using Binary Search(Iterative Method).
-![image](https://github.com/NSArjun/Search-Algorithms/assets/148233801/9c4bcbba-fe29-4675-9e5e-e438ea204f58)
+![image](https://github.com/NSArjun/Search-Algorithms/assets/148233801/9e1b7539-27f2-41bf-9268-df292233d8e2)
 
 
 
 iii)	# Find the element in a list using Binary Search (recursive Method).
-![image](https://github.com/NSArjun/Search-Algorithms/assets/148233801/fdc0a282-bc2c-4c81-b8d5-64e417d1e57f)
+
+![image](https://github.com/NSArjun/Search-Algorithms/assets/148233801/41e86ee8-73ac-4cf2-93bd-b2f377b05521)
 
 
 
